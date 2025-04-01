@@ -11,3 +11,14 @@ Behavioral Anomalies – Detect erratic movement (e.g., sudden acceleration, loi
 Swarm Attack Detection – Recognize coordinated drone threats.
 
 GPS Spoofing/Jamming Detection – Identify manipulated navigation signals.
+
+Tools & Libraries Needed
+Python (Primary language)
+
+ML Libraries: Scikit-learn, TensorFlow/PyTorch
+
+Data Processing: Pandas, NumPy
+
+Visualization: Matplotlib, Plotly
+
+Simulation: Generate synthetic drone flight data
