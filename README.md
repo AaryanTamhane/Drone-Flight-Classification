@@ -1,6 +1,5 @@
 # 🚁 AI-Powered Military Drone Threat Detection
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Drone+Threat+Detection+System) *(Replace with actual banner image)*
 
 ## 📌 Overview
 A machine learning system that identifies hostile drone activities in real-time using Random Forest classification. Designed for military and border security applications.
